@@ -40,21 +40,21 @@ EMS 데이터 통신 및 제어프로그램
   
 <br />
 
-![라즈베리파이구성](https://raw.githubusercontent.com/hugoMGSung/ems_comm/main/capture/raspberrypi.png)
+![라즈베리파이구성](https://raw.githubusercontent.com/hugoMGSung/works-need-it-IoT/main/energy_management_system/capture/raspberrypi.png)
 
 라즈베리파이 구성 - RED LED는 이상온도 처리(에어컨 동작 대체) / BLUE LED는 이상습도 처리(제습기 동작 대체)
 
 
-![대시보드실행화면](https://raw.githubusercontent.com/hugoMGSung/ems_comm/main/capture/dashboard2.png)
+![대시보드실행화면](https://raw.githubusercontent.com/hugoMGSung/works-need-it-IoT/main/energy_management_system/capture/dashboard2.png)
 
 대시보드 실행화면 (실시간 온도차트는 습도와 통합 예정)
 
 
-![네이버뉴스](https://raw.githubusercontent.com/hugoMGSung/ems_comm/main/capture/naver_news.png)
+![네이버뉴스](https://raw.githubusercontent.com/hugoMGSung/works-need-it-IoT/main/energy_management_system/capture/naver_news.png)
 
 네이버뉴스 검색 앱
 
-![네이버영화](https://raw.githubusercontent.com/hugoMGSung/ems_comm/main/capture/naver_movie.png)
+![네이버영화](https://raw.githubusercontent.com/hugoMGSung/works-need-it-IoT/main/energy_management_system/capture/naver_movie.png)
 
 네이버영화 검색 앱
 
