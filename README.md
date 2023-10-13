@@ -9,5 +9,5 @@
 
 > Bogus사용, Dummy데이터 만들어서 사용하는 전체(Console, WinForms, WPF) 솔루션
 
-## [RaspberryPi](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/RaspberryPi)
+## [RaspberryPi](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
 > 라즈베리파이에서 사용할 온도,습도,기압값 센서링 DB처리 로직 및 MQTT 테스트 파이썬 
