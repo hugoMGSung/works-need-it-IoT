@@ -5,7 +5,8 @@
 ## [아두이노 모니터링](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/arduino/ArduinoMonitoring)
 > 아두이노에 연결된 온도 센싱 데이터를 시리얼통신을 통해 전달, MySQL 데이터베이스에 실시간으로 저장하는 윈폼 앱
 
-## [DummyDataGen](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/DummyDataGen)
+## [DummyDataGen](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/windows/DummyDataGen)
+
 > Bogus사용, Dummy데이터 만들어서 사용하는 전체(Console, WinForms, WPF) 솔루션
 
 ## [RaspberryPi](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/RaspberryPi)
