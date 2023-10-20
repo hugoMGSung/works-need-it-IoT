@@ -54,11 +54,11 @@
 
 라즈베리파이 테스트 결과
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/pknu-raspberrypi-2023/main/images/raspberrypi01.jpg" width="700">	
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-IoT/main/pknu-raspberrypi-2023/images/raspberrypi01.jpg" width="700">	
 
 WPF 모니터링, 컨트롤화면
 	
-<img src="https://raw.githubusercontent.com/hugoMGSung/pknu-raspberrypi-2023/main/images/raspberrypi02.png" width="700">		
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-IoT/main/pknu-raspberrypi-2023/images/raspberrypi02.png" width="700">		
 		
 ## 7일차
 - 라즈베리파이 학습
